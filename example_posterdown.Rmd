@@ -1,0 +1,127 @@
+---
+title: DUIS UT NISL EU AUGUE BIBENDUM CURSUS ETIAM MOLESTIE VITAE JUSTO TRISTIQUE ALIQUAM MAURIS
+author:
+  - name: DOMINIC BEAN
+affiliation:
+    address: SCHOOL OF COMPUTING AND COMMUNICATIONS, LANCASTER UNIVERSITY
+column_numbers: 3
+logoright_name: https&#58;//m.lancaster.ac.uk/img/lu-mono.png
+
+logoleft_name: https&#58;//m.lancaster.ac.uk/img/lu-mono.png
+output: 
+  posterdown::posterdown_html:
+    self_contained: true
+primary_colour: "#B5121B"
+body_textsize: "39.6px"
+main_fontfamily: "Arial"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# INTRODUCTION
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit feugiat felis, ut consequat ex imperdiet in. Donec eget iaculis justo, luctus fermentum elit. Phasellus maximus est porta lacinia pulvinar. Proin efficitur at augue nec tristique. Aenean rutrum a elit vitae rhoncus. Vestibulum ante neque, vestibulum nec varius vel, lobortis in neque. Phasellus fermentum tempus felis eu finibus. Curabitur volutpat, ipsum volutpat feugiat molestie, turpis ipsum consectetur nibh, sed porttitor nulla mauris fermentum ligula. Donec ultrices in sem ac porttitor. Mauris sagittis dolor leo, vel consequat est posuere sed. Nullam tempus.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rhoncus nisl quis sem condimentum, eget semper diam pretium. Duis tempor ex at enim euismod congue. Vestibulum placerat purus ut orci mollis, at scelerisque sapien placerat. Sed rutrum quam et enim ultrices cursus. Nullam interdum lacus eu nibh imperdiet, quis varius mi ornare. Fusce tellus mauris, scelerisque in ultrices at, commodo eu turpis. Quisque in ipsum ut sapien molestie rhoncus. Ut arcu ante, dignissim feugiat mi in, maximus finibus risus. Mauris tempor id erat sed auctor. Suspendisse tincidunt urna ut augue tempus rhoncus. Phasellus a lorem et tellus dapibus bibendum in sed quam. Sed sem tortor, aliquet aliquam pharetra nec, bibendum eget justo. Duis consectetur pellentesque magna, at scelerisque est pulvinar sodales. Curabitur vitae tortor vel risus placerat dapibus. Suspendisse elementum mattis nunc eu volutpat. Suspendisse nec ipsum ut tortor scelerisque laoreet sit amet a est. Donec rutrum mollis dictum. Donec dignissim, diam eget egestas sollicitudin, erat lorem varius risus, sit amet consectetur dui metus id orci. Pellentesque habitant.
+
+## Objectives
+
+1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et imperdiet lectus.
+2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lacinia mauris et.
+
+# METHODS
+
+1. Mauris a nulla in quam vulputate rutrum vitae eget diam.
+2. In volutpat elit in tellus ullamcorper, in posuere orci rhoncus.
+3. Nullam placerat nibh a justo facilisis suscipit.
+4. In et ex et dui tempor convallis.
+5. Praesent vel eros non libero egestas rutrum dictum ut nulla.
+6. Nunc semper diam id imperdiet vulputate.
+
+**Lorem ipsum:** dolor sit amet, consectetur adipiscing elit. Nunc in.
+
+**Lorem ipsum:** dolor sit amet, consectetur adipiscing.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mattis, turpis sodales commodo finibus, diam tortor volutpat libero.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque iaculis mauris rhoncus, vehicula lacus vitae, dignissim est. Nullam.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vestibulum rutrum nibh. Duis feugiat a velit ut tincidunt. Vivamus eu gravida sem. Nunc pellentesque feugiat vulputate. Suspendisse at metus porta ante imperdiet mattis in eget lacus. In sed ultrices leo. Nam quis dui vehicula, venenatis odio in, mollis lectus. Sed non magna viverra, hendrerit purus non, dictum arcu. Fusce ac euismod ante. In vel dictum risus. Nulla ullamcorper libero nec enim aliquam, vel rutrum ex fermentum. Integer lacinia ante et leo consequat, et lobortis sapien ornare. Donec scelerisque risus ipsum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at quam consectetur, placerat justo in, molestie sem. Mauris mollis arcu urna, eu egestas ipsum laoreet sit amet. Sed eleifend, metus et rhoncus ultrices.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lectus felis, dapibus id ullamcorper vel, venenatis at lacus. Donec et posuere sem. Morbi aliquam ac:
+
+$$
+x + y
+$$
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim eleifend pretium. Fusce fringilla, sem:
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed elit libero. Fusce finibus eros ante, ullamcorper placerat lorem rutrum nec. Etiam sollicitudin aliquet ex sed varius. Phasellus sed magna commodo, condimentum justo suscipit, bibendum libero. Ut eget pretium arcu. Donec condimentum finibus faucibus. Pellentesque.
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor, nunc sit amet sollicitudin ultricies, leo nunc tempor ligula, nec porttitor neque nisi id sapien. Proin semper rhoncus odio, ut sollicitudin felis volutpat id. Nulla facilisi. Aenean venenatis hendrerit.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mattis placerat felis.
+
+*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu facilisis mauris. Sed vel tortor vel nisl pharetra.*
+
+**Lorem ipsum:** dolor sit amet, consectetur adipiscing elit. Nulla gravida maximus sapien eget vulputate. Proin id bibendum ex, quis semper dolor. Nulla feugiat.
+
+# RESULTS
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum nulla sit amet pellentesque pharetra. Vestibulum rhoncus pretium consequat. In pharetra mi quis lacinia fermentum. Donec laoreet elit quis tortor consectetur, ac posuere enim consectetur. Integer vitae velit tincidunt, sagittis leo.
+
+|     | Viverra | Pharetra |      Sagittis      |
+| :-: | :-----: | :------: | :----------------: |
+|  A  | 0.0000  |  0.0000  | $\lambda$ = 0.0000 |
+|  B  | 0.0000  |  0.0000  | $\lambda$ = 0.0000 |
+|  C  | 0.0000  |  0.0000  | $\lambda$ = 0.1000 |
+|  D  | 0.0000  |  0.0000  |         NA         |
+|  E  | 0.0000  |  0.0000  |         NA         |
+|  F  | 0.0000  |  0.0000  |         NA         |
+|  G  | 0.0000  |  0.0000  | $\alpha$ = 0.0000  |
+|  H  | 0.0000  |  0.0000  | $\alpha$ = 0.0000  |
+|  I  | 0.0000  |  0.0000  | $\alpha$ = 0.0000  |
+|  J  | 0.0000  |  0.0000  |       n = 0        |
+|  K  | 0.0000  |  0.0000  |       n = 0        |
+|  L  | 0.0000  |  0.0000  |       n = 0        |
+|  M  | 0.0000  |  0.0000  |         NA         |
+|  N  | 0.0000  |  0.0000  |         NA         |
+|  O  | 0.0000  |  0.0000  |         NA         |
+|  P  | 0.0000  |  0.0000  |       k = 00       |
+|  Q  | 0.0000  |  0.0000  |       k = 00       |
+
+Table: Lorem Ipsum Dolor Sit Amet Cnsectetur Adipiscing Elit
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse egestas neque ultrices aliquet tempus. Suspendisse convallis felis non sem lobortis suscipit. Integer vitae sapien quam. Etiam vitae sollicitudin lorem. Suspendisse ut volutpat sem, at.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum massa id justo accumsan tempor. Nulla pellentesque augue lacus, porttitor malesuada ex porta vitae. In in mi auctor sem hendrerit consequat non at magna.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non lectus urna. Integer iaculis sed metus in mollis. Proin efficitur, justo nec cursus convallis, lectus ex aliquam orci, eu viverra nisi lacus id nisi. Aliquam erat volutpat. Vestibulum vel neque consectetur, lacinia diam id, finibus ligula. Aliquam quis orci a mi scelerisque posuere et a ex. Maecenas gravida nec tortor vitae ornare. Vestibulum suscipit ante at luctus aliquet. Vestibulum elementum augue ut nisi suscipit, eget tempus orci suscipit. In hac habitasse platea dictumst. Vestibulum commodo nec mi ac porta. Mauris sodales non tortor vel.
+
+| Cras Amet | Tincidunt  | Massa Nunc | Morbi Eros | Donec Tellus |
+| :-------: | :--------: | :--------: | :--------: | :----------: |
+|    Low    |     A      |   0.00%    |    000     |    0.00%     |
+|  Medium   |     B      |   00.00%   |    000     |    00.00%    |
+|   High    |     C      |   00.00%   |    000     |    00.00%    |
+| Very High | D, E, F, G |   00.00%   |    000     |    00.00%    |
+|    All    |            |   00.00%   |    000     |    00.00%    |
+
+Table: Lorem Ipsum Dolor
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet tellus sodales arcu.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non magna nisl. Sed et lorem id elit blandit consequat in id turpis. Proin at odio feugiat massa fermentum dictum eu id augue. Phasellus aliquet quam maximus lectus iaculis, nec gravida tortor porta. In at augue non nibh accumsan congue et sed quam. Cras non lacus ac justo consectetur venenatis.
+
+# NEXT STEPS
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum, lorem eget vehicula congue, augue odio porttitor tortor, vel blandit libero leo in nisl. Morbi commodo massa non auctor faucibus. Maecenas quis rhoncus tellus, vel porta lorem. Vestibulum dictum vel justo ut.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec tempus nisi, at pretium ligula. Phasellus dictum enim a nibh elementum rutrum. Nullam volutpat, mauris sed molestie tempor, purus leo luctus velit, nec consequat magna turpis ut quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla.
+
+# CONCLUSION
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a ligula risus. Nullam consectetur placerat scelerisque. Nullam risus quam, elementum ac felis eu, suscipit porta justo. Ut nulla lorem, pellentesque sit amet aliquet et, pretium ut quam. Mauris in felis ipsum. In eget efficitur erat. Nullam ornare tincidunt.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum tempor purus ut dictum. Sed purus nulla, accumsan id dui at, posuere hendrerit mauris. Fusce ullamcorper eget dui efficitur feugiat. Cras purus turpis, eleifend ac consequat sed, pulvinar eget mauris. Integer ut.
