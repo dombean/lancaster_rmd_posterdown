@@ -1,0 +1,15 @@
+Package: lancasterRMD
+Title: Contains Lancaster University Themed RMarkdown Posterdown Template
+Version: 0.1
+Authors@R: 
+    person(given = "Dominic",
+           family = "Bean",
+           role = c("aut", "cre"),
+           email = "first.last@example.com")
+Description: Contains Lancaster University Themed RMarkdown Posterdown Template.
+    Useful for presentation and summarising a disseration.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
