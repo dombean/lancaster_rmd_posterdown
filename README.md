@@ -9,7 +9,7 @@ Useful for presenting and summarising a dissertation.
 1) __Run command in R:__ devtools::install_github("dombean/lancaster_rmd_posterdown")
 2) __Quit RStudio__.
 3) __Open RStudio__.
-3) __Click:__ File --> New File --> R Markdown. The templates should appear under the package name __cleanRMD__.
+3) __Click:__ File --> New File --> R Markdown --> From Template. The templates should appear under the package name __cleanRMD__.
 
 # Dependencies
 
