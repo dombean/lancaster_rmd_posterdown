@@ -1,5 +1,9 @@
 Refer to the file __example_posterdown.html__ to see what the poster looks like.
 
+Lancaster University Themed Posterdown; it has a Red Theme and Contains Lancaster University Logos. 
+
+Useful for presenting and summarising a dissertation.
+
 # R Install
 
 1) __Run command in R:__ devtools::install_github("dombean/lancaster_rmd_posterdown")

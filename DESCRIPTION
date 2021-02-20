@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com")
 Description: Contains Lancaster University Themed RMarkdown Posterdown Template.
-    Useful for presentation and summarising a disseration.
+    Useful for presentation and summarising a dissertation.
 License: use_mit_license()
 Encoding: UTF-8
 LazyData: true
